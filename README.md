@@ -1,8 +1,27 @@
-# Certification-Portfolio-
- 🎓 TCS iON Certified | 🚀 Growing towards a career in tech..
+# 📜 My Certification Portfolio
 
-**This is my certificate.**
+## 🏆 Certificates
 
-Certified in **TCS iON Career Edge – IT Primer (2026)**
-Completed training in IT fundamentals, tools, and emerging technologies
-Passionate about learning and building in tech 🚀
+### 1. TCS iON Career Edge – IT Primer (2026)
+![TCS Certificate](./certificates/tcs-ion-it-primer.j)
+
+**Description:**
+- Completed course on IT Industry fundamentals  
+- Learned basics of tools and technologies  
+
+---
+
+## 💡 My Learning Experience
+
+This course helped me understand the fundamentals of the IT industry.  
+I learned about industry tools, trending technologies, and career growth paths.  
+
+It improved my confidence and gave me clarity about starting a career in the IT field. 🚀
+
+---
+
+## 🚀 Future Goals
+
+- Learn programming (Java/Python)
+- Build real-world projects
+- Gain more certifications
