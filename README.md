@@ -3,7 +3,7 @@
 ## 🏆 Certificates
 
 ### 1. TCS iON Career Edge – IT Primer (2026)
-![TCS Certificate](./certificates/tcs-ion-it-primer.j)
+![TCS Certificate](tcs-ion-career edge .pdf
 
 **Description:**
 - Completed course on IT Industry fundamentals  
