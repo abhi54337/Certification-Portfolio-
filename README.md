@@ -10,6 +10,13 @@
 - Learned basics of tools and technologies  
 
 ---
+2. ### TCS iON Career Edge – Interview and Job Readiness.
+
+ **Skills Acquired**:
+
+* Resume Writing
+* Interview Preparation
+* Communication Skills etc...
 
 ## 💡 My Learning Experience
 
