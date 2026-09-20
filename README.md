@@ -18,7 +18,14 @@
 * Interview Preparation
 * Communication Skills etc...
 
-3.  Viksit Bharat Young Leaders Dialogue (VBYLD) 2027 
+
+---
+3.  Viksit Bharat Young Leaders Dialogue (VBYLD) 2027
+     🇮🇳 Viksit Bharat Young Leaders Dialogue 2027
+    Proud to have participated in the Viksit Bharat Young Leaders Dialogue (VBYLD) 2027 Quiz, conducted through the MY Bharat & MyGov platforms.
+🔗 Platforms
+MY Bharat
+MyGov
 
 ## 💡 My Learning Experience
 
